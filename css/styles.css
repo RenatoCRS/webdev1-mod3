@@ -1,0 +1,29 @@
+#tall-section {
+	height: 1000px;
+	background-color: lightgrey;
+}
+
+.row {
+	margin: 15px;
+}
+
+#nav-list {
+	text-align: center;
+}
+
+#nav-list span {
+	color: blue;
+	font-size: 1.5em;
+}
+
+#nav-list span:hover {
+	background-color: yellow;
+}
+
+#collapsable-nav {
+	background-color: lightyellow;
+}
+
+li a {
+	font-size: 1.2em;
+}
